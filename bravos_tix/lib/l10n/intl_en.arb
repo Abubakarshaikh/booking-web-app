@@ -1,0 +1,17 @@
+{
+  "@@locale": "en",
+  "welcome_back": "Welcome back, {name}",
+  "signIn_pinCode_hint": "Enter your 4 - Digit Pin",
+  "signIn_pinCode_message": "For the security of your account,\nplease enter the security code",
+  "dashboard_toolbar_welcome": "Hello! {name}",
+  "dashboard_toolbar_welcome_message": "Book your favourite match tickets",
+  "dashboard_today_matches_title": "Today's Matches",
+  "see_all": "See All",
+  "book_ticket": "Book Ticket",
+  "dashboard_upcoming_matches": "Upcoming Matches",
+  "book_now": "Book Now!",
+  "home": "Home",
+  "tickets": "Tickets",
+  "favorites": "Favorites",
+  "account": "Account"
+}
